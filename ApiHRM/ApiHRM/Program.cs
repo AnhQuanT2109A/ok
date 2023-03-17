@@ -10,7 +10,7 @@ app.MapGet("/employeeitems", async (EmployeeDb db) =>
     await db.Employees.ToListAsync()
 );
 
-app.MapGet("/employeeitems/complete", async (EmployeeDb db) =>
+app.MapGet("/`/complete", async (EmployeeDb db) =>
     await db.Employees.Where(t => t.IsComplete).ToListAsync()
 );
 

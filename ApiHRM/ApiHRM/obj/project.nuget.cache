@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GMZFA/s70UFcVnHqaqWXMTkZKBfnuvcC4PCrim6XKQCBUXstf+qQ6XSy2Mym+ciUynsRXorvyU2puwPT13nwQg==",
+  "dgSpecHash": "keV19h/hUmGW0hW+c3jah3M69kLrBk/uFJweftQ7N/qOiTM7MESBEoVhdW0EbtVFWK9TEdw8Y/G2uahIZMQbkQ==",
   "success": true,
-  "projectFilePath": "C:\\SEM 3\\ASP.NET Core MVC\\ApiHRM\\ApiHRM\\ApiHRM.csproj",
+  "projectFilePath": "C:\\SEM 3\\ok\\ApiHRM\\ApiHRM\\ApiHRM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quand\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\7.0.3\\microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.3.nupkg.sha512",
     "C:\\Users\\quand\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",

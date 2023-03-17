@@ -36,3 +36,41 @@ C:\SEM 3\ASP.NET Core MVC\ApiHRM\ApiHRM\obj\Debug\net7.0\refint\ApiHRM.dll
 C:\SEM 3\ASP.NET Core MVC\ApiHRM\ApiHRM\obj\Debug\net7.0\ApiHRM.pdb
 C:\SEM 3\ASP.NET Core MVC\ApiHRM\ApiHRM\obj\Debug\net7.0\ApiHRM.genruntimeconfig.cache
 C:\SEM 3\ASP.NET Core MVC\ApiHRM\ApiHRM\obj\Debug\net7.0\ref\ApiHRM.dll
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\appsettings.Development.json
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\appsettings.json
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\ApiHRM.exe
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\ApiHRM.deps.json
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\ApiHRM.runtimeconfig.json
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\ApiHRM.dll
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\ApiHRM.pdb
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SEM 3\ok\ApiHRM\ApiHRM\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\ApiHRM.csproj.AssemblyReference.cache
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\ApiHRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\ApiHRM.AssemblyInfoInputs.cache
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\ApiHRM.AssemblyInfo.cs
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\ApiHRM.csproj.CoreCompileInputs.cache
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\ApiHRM.MvcApplicationPartsAssemblyInfo.cs
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\ApiHRM.MvcApplicationPartsAssemblyInfo.cache
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\staticwebassets\msbuild.ApiHRM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\staticwebassets\msbuild.build.ApiHRM.props
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ApiHRM.props
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ApiHRM.props
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\staticwebassets.pack.json
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\staticwebassets.build.json
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\staticwebassets.development.json
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\scopedcss\bundle\ApiHRM.styles.css
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\ApiHRM.csproj.CopyComplete
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\ApiHRM.dll
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\refint\ApiHRM.dll
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\ApiHRM.pdb
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\ApiHRM.genruntimeconfig.cache
+C:\SEM 3\ok\ApiHRM\ApiHRM\obj\Debug\net7.0\ref\ApiHRM.dll
